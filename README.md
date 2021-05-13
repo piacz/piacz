@@ -16,7 +16,6 @@ Curious Software Developer, passionate about solving problems and automating stu
   <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/sass-1.svg"  height="55" width="55" >
 # Learning:
 <a href="https://expressjs.com/es/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg"  height="55" width="55" >
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg"  height="55" width="55" >
   <a href="https://firebase.google.com/?hl=es"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png"  height="55" width="55" >
     
 
