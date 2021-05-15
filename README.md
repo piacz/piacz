@@ -21,7 +21,7 @@ Curious Software Developer, passionate about solving problems and automating stu
 
 ### Contact Me:
 <a href="https://www.linkedin.com/in/pia-cherni/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="55" width="55" >
-<a href="mailto:piaczernyk@email.com"><img src="https://www.flaticon.es/svg/vstatic/svg/311/311174.svg?token=exp=1619313470~hmac=435c34292d8b8e30f18993b0f6f0448a"  height="55" width="55" ></a>
+<a href="mailto:piaczernyk@email.com"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="55" width="55" ></a>
 
 - ⚡ Wishlist: VueJs, GraphQL
 
